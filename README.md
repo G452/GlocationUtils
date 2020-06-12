@@ -7,6 +7,8 @@
 2、主moudel的build中添加
 
     implementation 'com.github.G452:GlocationUtils:0.0.1'
+    implementation 'com.github.G452:GlocationUtils:0.0.2'//AndroidX用户   
+ 
 
 3、点击Sync Now刷新编译
 
