@@ -19,8 +19,7 @@ public class ExampleInstrumentedTest {
     @Test
     public void useAppContext() {
         // Context of the app under test.
-        Context appContext = InstrumentationRegistry.getTargetContext();
-
-        assertEquals("com.g452.www.glocationutils", appContext.getPackageName());
+//        Context appContext = InstrumentationRegistry.getTargetContext();
+//        assertEquals("com.g452.www.glocationutils", appContext.getPackageName());
     }
 }
