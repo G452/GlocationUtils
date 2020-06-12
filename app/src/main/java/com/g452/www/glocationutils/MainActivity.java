@@ -1,10 +1,8 @@
 package com.g452.www.glocationutils;
 
 
-import android.location.Address;
-import android.location.Geocoder;
 import android.location.Location;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -13,10 +11,6 @@ import android.widget.Toast;
 
 import com.g452.www.glocation.utils.LocationUtils;
 import com.g452.www.glocation.utils.PermissionUtils;
-
-import java.io.IOException;
-import java.util.List;
-import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
